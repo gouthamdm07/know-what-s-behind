@@ -1,0 +1,1479 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://dainty-gecko-d4bc88.netlify.app/
+Subject: =?utf-8?Q?CodeVision=20AI=20=E2=80=94=20See=20Code.=20Understand=20Logic.?=
+ =?utf-8?Q?=20Learn=20Visually.?=
+Date: Tue, 13 Oct 2026 06:45:53 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----"
+
+
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----
+Content-Type: text/html
+Content-ID: <frame-7D8F80C20E2C96514B86E8F786040FDB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://dainty-gecko-d4bc88.netlify.app/
+
+<!DOCTYPE html><html lang=3D"en" class=3D"dark"><head><meta http-equiv=3D"C=
+ontent-Type" content=3D"text/html; charset=3DUTF-8">
+   =20
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=3Dloops&utm_=
+source=3Dai-legible&utm_medium=3Downed&utm_content=3Dcomment&utm_id=3D97ab1=
+33a-c371-4990-8581-d9725412e870
+     Netlify hosting facts for this site: static/SSR served via Netlify Edg=
+e. -->
+    <link rel=3D"icon" type=3D"image/svg+xml" href=3D"https://dainty-gecko-=
+d4bc88.netlify.app/vite.svg">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <meta name=3D"description" content=3D"CodeVision AI =E2=80=94 See Code.=
+ Understand Logic. Learn Visually. Transform abstract computer science conc=
+epts into beautiful, animated visual explanations.">
+    <title>CodeVision AI =E2=80=94 See Code. Understand Logic. Learn Visual=
+ly.</title>
+    <link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+    <link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigi=
+n=3D"">
+    <link href=3D"https://fonts.googleapis.com/css2?family=3DInter:wght@300=
+;400;500;600;700;800&amp;family=3DJetBrains+Mono:wght@400;500;600&amp;displ=
+ay=3Dswap" rel=3D"stylesheet">
+   =20
+    <link rel=3D"stylesheet" crossorigin=3D"" href=3D"https://dainty-gecko-=
+d4bc88.netlify.app/assets/index-D6yIXiQJ.css">
+  </head>
+  <body>
+    <div id=3D"root"><div class=3D"app-shell "><div class=3D"fixed inset-0 =
+bg-black/60 z-40 md:hidden" style=3D"opacity: 1;"></div><aside class=3D"sid=
+ebar " aria-label=3D"Main navigation" style=3D"z-index: 50;"><div style=3D"=
+padding: 1rem 1.25rem 0.75rem; border-bottom: 1px solid var(--border-subtle=
+); display: flex; align-items: center; justify-content: space-between; flex=
+-shrink: 0;"><div style=3D"display: flex; align-items: center; gap: 0.6rem;=
+ min-width: 0px;"><div style=3D"width: 34px; height: 34px; border-radius: 8=
+px; background: linear-gradient(135deg, rgb(59, 130, 246), rgb(139, 92, 246=
+)); display: flex; align-items: center; justify-content: center; flex-shrin=
+k: 0; box-shadow: rgba(59, 130, 246, 0.4) 0px 2px 8px;"><svg xmlns=3D"http:=
+//www.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fil=
+l=3D"white" stroke=3D"white" stroke-width=3D"2" stroke-linecap=3D"round" st=
+roke-linejoin=3D"round" class=3D"lucide lucide-zap" aria-hidden=3D"true"><p=
+ath d=3D"M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.=
+5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3=
+.997a.5.5 0 01-.472-.667z"></path></svg></div><div style=3D"min-width: 0px;=
+"><div class=3D"gradient-text" style=3D"font-size: 0.95rem; font-weight: 70=
+0; letter-spacing: -0.01em; line-height: 1.1;">CodeVision</div><div style=
+=3D"font-size: 0.65rem; color: var(--text-muted); font-weight: 500; letter-=
+spacing: 0.08em; text-transform: uppercase;">AI</div></div></div><button cl=
+ass=3D"btn btn-ghost btn-icon" aria-label=3D"Close sidebar" style=3D"flex-s=
+hrink: 0;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D=
+"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-wid=
+th=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide=
+ lucide-chevron-left" aria-hidden=3D"true"><path d=3D"m15 18-6-6 6-6"></pat=
+h></svg></button></div><div style=3D"padding: 0.6rem 1rem; border-bottom: 1=
+px solid var(--border-subtle); background: linear-gradient(135deg, rgba(59,=
+ 130, 246, 0.05), rgba(139, 92, 246, 0.05)); flex-shrink: 0;"><div style=3D=
+"display: flex; justify-content: space-between; align-items: center; margin=
+-bottom: 0.35rem;"><span style=3D"font-size: 0.72rem; color: var(--text-mut=
+ed); font-weight: 500;">=E2=9A=A1 0 XP</span><span style=3D"font-size: 0.72=
+rem; color: var(--text-muted);">0 lessons</span></div><div class=3D"progres=
+s-bar"><div class=3D"progress-fill" style=3D"width: 0%;"></div></div></div>=
+<nav style=3D"flex: 1 1 0%; overflow-y: auto; padding: 0.5rem 0px;"><button=
+ class=3D"nav-item active" aria-current=3D"page" tabindex=3D"0" style=3D"wi=
+dth: calc(100% - 1rem); text-align: left; cursor: pointer;"><svg xmlns=3D"h=
+ttp://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24"=
+ fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D=
+"round" stroke-linejoin=3D"round" class=3D"lucide lucide-layout-dashboard n=
+av-icon" aria-hidden=3D"true" style=3D"flex-shrink: 0;"><rect width=3D"7" h=
+eight=3D"9" x=3D"3" y=3D"3" rx=3D"1"></rect><rect width=3D"7" height=3D"5" =
+x=3D"14" y=3D"3" rx=3D"1"></rect><rect width=3D"7" height=3D"9" x=3D"14" y=
+=3D"12" rx=3D"1"></rect><rect width=3D"7" height=3D"5" x=3D"3" y=3D"16" rx=
+=3D"1"></rect></svg><div style=3D"min-width: 0px;"><div style=3D"font-size:=
+ 0.84rem; font-weight: 500; line-height: 1.2;">Dashboard</div><div style=3D=
+"font-size: 0.7rem; color: var(--text-muted); margin-top: 1px;">Overview &a=
+mp; progress</div></div></button><button class=3D"nav-item " tabindex=3D"0"=
+ style=3D"width: calc(100% - 1rem); text-align: left; cursor: pointer;"><sv=
+g xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=
+=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" str=
+oke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-code=
+-xml lucide-code-2 nav-icon" aria-hidden=3D"true" style=3D"flex-shrink: 0;"=
+><path d=3D"m18 16 4-4-4-4"></path><path d=3D"m6 8-4 4 4 4"></path><path d=
+=3D"m14.5 4-5 16"></path></svg><div style=3D"min-width: 0px;"><div style=3D=
+"font-size: 0.84rem; font-weight: 500; line-height: 1.2;">Code Playground</=
+div><div style=3D"font-size: 0.7rem; color: var(--text-muted); margin-top: =
+1px;">Live Python execution</div></div><span class=3D"badge badge-blue" sty=
+le=3D"margin-left: auto; flex-shrink: 0; font-size: 0.65rem; padding: 0.1re=
+m 0.4rem;">Python</span></button><button class=3D"nav-item " tabindex=3D"0"=
+ style=3D"width: calc(100% - 1rem); text-align: left; cursor: pointer;"><sv=
+g xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=
+=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" str=
+oke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-cpu =
+nav-icon" aria-hidden=3D"true" style=3D"flex-shrink: 0;"><path d=3D"M12 20v=
+2"></path><path d=3D"M12 2v2"></path><path d=3D"M17 20v2"></path><path d=3D=
+"M17 2v2"></path><path d=3D"M2 12h2"></path><path d=3D"M2 17h2"></path><pat=
+h d=3D"M2 7h2"></path><path d=3D"M20 12h2"></path><path d=3D"M20 17h2"></pa=
+th><path d=3D"M20 7h2"></path><path d=3D"M7 20v2"></path><path d=3D"M7 2v2"=
+></path><rect x=3D"4" y=3D"4" width=3D"16" height=3D"16" rx=3D"2"></rect><r=
+ect x=3D"8" y=3D"8" width=3D"8" height=3D"8" rx=3D"1"></rect></svg><div sty=
+le=3D"min-width: 0px;"><div style=3D"font-size: 0.84rem; font-weight: 500; =
+line-height: 1.2;">CS Fundamentals</div><div style=3D"font-size: 0.7rem; co=
+lor: var(--text-muted); margin-top: 1px;">CPU, RAM, OS simulations</div></d=
+iv></button><button class=3D"nav-item " tabindex=3D"0" style=3D"width: calc=
+(100% - 1rem); text-align: left; cursor: pointer;"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"=
+none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" s=
+troke-linejoin=3D"round" class=3D"lucide lucide-database nav-icon" aria-hid=
+den=3D"true" style=3D"flex-shrink: 0;"><ellipse cx=3D"12" cy=3D"5" rx=3D"9"=
+ ry=3D"3"></ellipse><path d=3D"M3 5V19A9 3 0 0 0 21 19V5"></path><path d=3D=
+"M3 12A9 3 0 0 0 21 12"></path></svg><div style=3D"min-width: 0px;"><div st=
+yle=3D"font-size: 0.84rem; font-weight: 500; line-height: 1.2;">Data Struct=
+ures</div><div style=3D"font-size: 0.7rem; color: var(--text-muted); margin=
+-top: 1px;">Arrays, trees, graphs</div></div></button><button class=3D"nav-=
+item " tabindex=3D"0" style=3D"width: calc(100% - 1rem); text-align: left; =
+cursor: pointer;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" he=
+ight=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" str=
+oke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D=
+"lucide lucide-git-graph nav-icon" aria-hidden=3D"true" style=3D"flex-shrin=
+k: 0;"><circle cx=3D"5" cy=3D"6" r=3D"3"></circle><path d=3D"M5 9v6"></path=
+><circle cx=3D"5" cy=3D"18" r=3D"3"></circle><path d=3D"M12 3v18"></path><c=
+ircle cx=3D"19" cy=3D"6" r=3D"3"></circle><path d=3D"M16 15.7A9 9 0 0 0 19 =
+9"></path></svg><div style=3D"min-width: 0px;"><div style=3D"font-size: 0.8=
+4rem; font-weight: 500; line-height: 1.2;">Algorithms</div><div style=3D"fo=
+nt-size: 0.7rem; color: var(--text-muted); margin-top: 1px;">Sort &amp; sea=
+rch visuals</div></div></button><button class=3D"nav-item " tabindex=3D"0" =
+style=3D"width: calc(100% - 1rem); text-align: left; cursor: pointer;"><svg=
+ xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D=
+"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke=
+-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-book-op=
+en nav-icon" aria-hidden=3D"true" style=3D"flex-shrink: 0;"><path d=3D"M12 =
+5v16"></path><path d=3D"M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.00=
+2A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2=
+ 5 5 0 014-2z"></path></svg><div style=3D"min-width: 0px;"><div style=3D"fo=
+nt-size: 0.84rem; font-weight: 500; line-height: 1.2;">Learning Paths</div>=
+<div style=3D"font-size: 0.7rem; color: var(--text-muted); margin-top: 1px;=
+">Structured curriculum</div></div></button><button class=3D"nav-item " tab=
+index=3D"0" style=3D"width: calc(100% - 1rem); text-align: left; cursor: po=
+inter;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16=
+" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide l=
+ucide-trophy nav-icon" aria-hidden=3D"true" style=3D"flex-shrink: 0;"><path=
+ d=3D"M10 14.66V17a1 1 0 0 1-1 1 2 2 0 0 0-2 2v2"></path><path d=3D"M14 14.=
+66V17a1 1 0 0 0 1 1 2 2 0 0 1 2 2v2"></path><path d=3D"M17.916 10H19.5A2.5 =
+2.5 0 0 0 22 7.5V5a1 1 0 0 0-1-1h-3"></path><path d=3D"M4 22h16"></path><pa=
+th d=3D"M6 9a6 6 0 0 0 12 0V3a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1z"></path><path =
+d=3D"M6.084 10H4.5A2.5 2.5 0 0 1 2 7.5V5a1 1 0 0 1 1-1h3"></path></svg><div=
+ style=3D"min-width: 0px;"><div style=3D"font-size: 0.84rem; font-weight: 5=
+00; line-height: 1.2;">Challenges</div><div style=3D"font-size: 0.7rem; col=
+or: var(--text-muted); margin-top: 1px;">Test your knowledge</div></div></b=
+utton><button class=3D"nav-item " tabindex=3D"0" style=3D"width: calc(100% =
+- 1rem); text-align: left; cursor: pointer;"><svg xmlns=3D"http://www.w3.or=
+g/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" =
+stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-=
+linejoin=3D"round" class=3D"lucide lucide-mic nav-icon" aria-hidden=3D"true=
+" style=3D"flex-shrink: 0;"><path d=3D"M12 19v3"></path><path d=3D"M19 10v2=
+a7 7 0 0 1-14 0v-2"></path><rect x=3D"9" y=3D"2" width=3D"6" height=3D"13" =
+rx=3D"3"></rect></svg><div style=3D"min-width: 0px;"><div style=3D"font-siz=
+e: 0.84rem; font-weight: 500; line-height: 1.2;">AI Voice Tutor</div><div s=
+tyle=3D"font-size: 0.7rem; color: var(--text-muted); margin-top: 1px;">Ask =
+anything</div></div></button><button class=3D"nav-item " tabindex=3D"0" sty=
+le=3D"width: calc(100% - 1rem); text-align: left; cursor: pointer;"><svg xm=
+lns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 =
+0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-li=
+necap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-chart-colu=
+mn lucide-bar-chart-3 nav-icon" aria-hidden=3D"true" style=3D"flex-shrink: =
+0;"><path d=3D"M3 3v16a2 2 0 0 0 2 2h16"></path><path d=3D"M18 17V9"></path=
+><path d=3D"M13 17V5"></path><path d=3D"M8 17v-3"></path></svg><div style=
+=3D"min-width: 0px;"><div style=3D"font-size: 0.84rem; font-weight: 500; li=
+ne-height: 1.2;">My Progress</div><div style=3D"font-size: 0.7rem; color: v=
+ar(--text-muted); margin-top: 1px;">Stats &amp; achievements</div></div></b=
+utton><button class=3D"nav-item " tabindex=3D"0" style=3D"width: calc(100% =
+- 1rem); text-align: left; cursor: pointer;"><svg xmlns=3D"http://www.w3.or=
+g/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" =
+stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-=
+linejoin=3D"round" class=3D"lucide lucide-settings nav-icon" aria-hidden=3D=
+"true" style=3D"flex-shrink: 0;"><path d=3D"M9.671 4.136a2.34 2.34 0 0 1 4.=
+659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 =
+0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 =
+0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.=
+34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915"></=
+path><circle cx=3D"12" cy=3D"12" r=3D"3"></circle></svg><div style=3D"min-w=
+idth: 0px;"><div style=3D"font-size: 0.84rem; font-weight: 500; line-height=
+: 1.2;">Settings</div><div style=3D"font-size: 0.7rem; color: var(--text-mu=
+ted); margin-top: 1px;">Preferences &amp; help</div></div></button></nav><d=
+iv style=3D"padding: 0.75rem 1rem; border-top: 1px solid var(--border-subtl=
+e); font-size: 0.7rem; color: var(--text-muted); flex-shrink: 0; display: f=
+lex; align-items: center; gap: 0.5rem;"><div class=3D"pulse-dot"></div><spa=
+n>Built-in AI =C2=B7 No API required</span></div></aside><div class=3D"main=
+-content"><header class=3D"topbar"><button class=3D"btn btn-ghost btn-icon"=
+ aria-label=3D"Toggle sidebar" aria-expanded=3D"true"><svg xmlns=3D"http://=
+www.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"roun=
+d" stroke-linejoin=3D"round" class=3D"lucide lucide-menu" aria-hidden=3D"tr=
+ue"><path d=3D"M4 5h16"></path><path d=3D"M4 12h16"></path><path d=3D"M4 19=
+h16"></path></svg></button><div style=3D"display: flex; align-items: center=
+; gap: 0.4rem; flex: 1 1 0%; min-width: 0px;"><span style=3D"font-size: 0.8=
+rem; color: var(--text-muted);">CodeVision AI</span><svg xmlns=3D"http://ww=
+w.w3.org/2000/svg" width=3D"14" height=3D"14" viewBox=3D"0 0 24 24" fill=3D=
+"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" =
+stroke-linejoin=3D"round" class=3D"lucide lucide-chevron-right" aria-hidden=
+=3D"true" style=3D"color: var(--text-muted); flex-shrink: 0;"><path d=3D"m9=
+ 18 6-6-6-6"></path></svg><div style=3D"min-width: 0px;"><span style=3D"fon=
+t-size: 0.9rem; font-weight: 600; color: var(--text-primary);">Dashboard</s=
+pan></div></div><div style=3D"display: flex; align-items: center; gap: 0.5r=
+em; flex-shrink: 0;"><button class=3D"btn btn-sm btn-secondary" aria-label=
+=3D"Toggle AI tutor" style=3D"gap: 0.4rem;"><svg xmlns=3D"http://www.w3.org=
+/2000/svg" width=3D"14" height=3D"14" viewBox=3D"0 0 24 24" fill=3D"none" s=
+troke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-l=
+inejoin=3D"round" class=3D"lucide lucide-mic" aria-hidden=3D"true"><path d=
+=3D"M12 19v3"></path><path d=3D"M19 10v2a7 7 0 0 1-14 0v-2"></path><rect x=
+=3D"9" y=3D"2" width=3D"6" height=3D"13" rx=3D"3"></rect></svg><span class=
+=3D"sm-show" style=3D"display: none; font-size: 0.8rem;">AI Tutor</span></b=
+utton><button class=3D"btn btn-ghost btn-icon" aria-label=3D"Switch to ligh=
+t theme"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" height=3D"1=
+8" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide l=
+ucide-sun" aria-hidden=3D"true"><circle cx=3D"12" cy=3D"12" r=3D"4"></circl=
+e><path d=3D"M12 2v2"></path><path d=3D"M12 20v2"></path><path d=3D"m4.93 4=
+.93 1.41 1.41"></path><path d=3D"m17.66 17.66 1.41 1.41"></path><path d=3D"=
+M2 12h2"></path><path d=3D"M20 12h2"></path><path d=3D"m6.34 17.66-1.41 1.4=
+1"></path><path d=3D"m19.07 4.93-1.41 1.41"></path></svg></button></div></h=
+eader><main class=3D"page-content" id=3D"main-content-scroll"><div style=3D=
+"min-height: 100%; opacity: 1; transform: none;"><div style=3D"padding: 1.5=
+rem; max-width: 1200px; margin: 0px auto;"><div style=3D"margin-bottom: 1.7=
+5rem; opacity: 1; transform: none;"><div style=3D"background: linear-gradie=
+nt(135deg, rgba(59, 130, 246, 0.12), rgba(139, 92, 246, 0.08)); border: 1px=
+ solid rgba(59, 130, 246, 0.2); border-radius: var(--radius-xl); padding: 1=
+.75rem; position: relative; overflow: hidden;"><div style=3D"position: abso=
+lute; top: -30px; right: -30px; width: 160px; height: 160px; border-radius:=
+ 50%; background: radial-gradient(circle, rgba(139, 92, 246, 0.15), transpa=
+rent 70%); pointer-events: none;"></div><div style=3D"position: absolute; b=
+ottom: -20px; left: 100px; width: 100px; height: 100px; border-radius: 50%;=
+ background: radial-gradient(circle, rgba(59, 130, 246, 0.1), transparent 7=
+0%); pointer-events: none;"></div><div style=3D"position: relative; display=
+: flex; align-items: flex-start; justify-content: space-between; flex-wrap:=
+ wrap; gap: 1rem;"><div><div style=3D"display: flex; align-items: center; g=
+ap: 0.5rem; margin-bottom: 0.5rem;"><span style=3D"font-size: 1.5rem;">=F0=
+=9F=91=8B</span><h1 style=3D"font-size: 1.5rem; font-weight: 800; letter-sp=
+acing: -0.02em;">Welcome to CodeVision AI!</h1></div><p style=3D"font-size:=
+ 0.95rem; color: var(--text-secondary); max-width: 500px; line-height: 1.6;=
+">See code execute step by step. Understand logic visually. Learn computer =
+science the modern way.</p></div><div style=3D"display: flex; gap: 0.5rem; =
+flex-wrap: wrap;"><button class=3D"btn btn-primary" id=3D"start-coding-btn"=
+ style=3D"gap: 0.5rem;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"=
+16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"white" stroke=3D"currentCol=
+or" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" c=
+lass=3D"lucide lucide-play" aria-hidden=3D"true"><path d=3D"M5 5a2 2 0 0 1 =
+3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z"></path=
+></svg>Start Coding</button><button class=3D"btn btn-secondary">View Curric=
+ulum</button></div></div><div style=3D"margin-top: 1rem; display: flex; gap=
+: 0.75rem; flex-wrap: wrap;"><div style=3D"display: flex; align-items: cent=
+er; gap: 0.4rem; font-size: 0.8rem; color: var(--text-secondary);"><span st=
+yle=3D"width: 20px; height: 20px; border-radius: 50%; background: linear-gr=
+adient(135deg, var(--accent-blue), var(--accent-violet)); display: flex; al=
+ign-items: center; justify-content: center; font-size: 0.7rem; color: white=
+; font-weight: 700; flex-shrink: 0;">1</span>Write Python code</div><div st=
+yle=3D"display: flex; align-items: center; gap: 0.4rem; font-size: 0.8rem; =
+color: var(--text-secondary);"><span style=3D"width: 20px; height: 20px; bo=
+rder-radius: 50%; background: linear-gradient(135deg, var(--accent-blue), v=
+ar(--accent-violet)); display: flex; align-items: center; justify-content: =
+center; font-size: 0.7rem; color: white; font-weight: 700; flex-shrink: 0;"=
+>2</span>Watch it execute step-by-step</div><div style=3D"display: flex; al=
+ign-items: center; gap: 0.4rem; font-size: 0.8rem; color: var(--text-second=
+ary);"><span style=3D"width: 20px; height: 20px; border-radius: 50%; backgr=
+ound: linear-gradient(135deg, var(--accent-blue), var(--accent-violet)); di=
+splay: flex; align-items: center; justify-content: center; font-size: 0.7re=
+m; color: white; font-weight: 700; flex-shrink: 0;">3</span>Ask the AI tuto=
+r anything</div><div style=3D"display: flex; align-items: center; gap: 0.4r=
+em; font-size: 0.8rem; color: var(--text-secondary);"><span style=3D"width:=
+ 20px; height: 20px; border-radius: 50%; background: linear-gradient(135deg=
+, var(--accent-blue), var(--accent-violet)); display: flex; align-items: ce=
+nter; justify-content: center; font-size: 0.7rem; color: white; font-weight=
+: 700; flex-shrink: 0;">4</span>Build real CS intuition</div></div></div></=
+div><div style=3D"display: grid; grid-template-columns: repeat(auto-fit, mi=
+nmax(280px, 1fr)); gap: 1.5rem;"><div style=3D"grid-column: span 2;"><div c=
+lass=3D"section-header"><div class=3D"section-divider"></div><h2>Quick Acce=
+ss</h2></div><div style=3D"display: grid; grid-template-columns: repeat(aut=
+o-fill, minmax(180px, 1fr)); gap: 0.75rem;"><button class=3D"card" tabindex=
+=3D"0" style=3D"text-align: left; cursor: pointer; display: block; border: =
+1px solid var(--border-subtle); opacity: 1; transform: none;"><div style=3D=
+"width: 40px; height: 40px; border-radius: 10px; background: rgba(59, 130, =
+246, 0.1); display: flex; align-items: center; justify-content: center; mar=
+gin-bottom: 0.75rem;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20=
+" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor"=
+ stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" clas=
+s=3D"lucide lucide-code-xml lucide-code-2" aria-hidden=3D"true" style=3D"co=
+lor: var(--accent-blue);"><path d=3D"m18 16 4-4-4-4"></path><path d=3D"m6 8=
+-4 4 4 4"></path><path d=3D"m14.5 4-5 16"></path></svg></div><div style=3D"=
+font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;">Start Coding<=
+/div><div style=3D"font-size: 0.75rem; color: var(--text-muted); line-heigh=
+t: 1.4;">Write &amp; visualize Python</div></button><button class=3D"card" =
+tabindex=3D"0" style=3D"text-align: left; cursor: pointer; display: block; =
+border: 1px solid var(--border-subtle); opacity: 1; transform: none;"><div =
+style=3D"width: 40px; height: 40px; border-radius: 10px; background: rgba(1=
+39, 92, 246, 0.1); display: flex; align-items: center; justify-content: cen=
+ter; margin-bottom: 0.75rem;"><svg xmlns=3D"http://www.w3.org/2000/svg" wid=
+th=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"curre=
+ntColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"rou=
+nd" class=3D"lucide lucide-cpu" aria-hidden=3D"true" style=3D"color: var(--=
+accent-violet);"><path d=3D"M12 20v2"></path><path d=3D"M12 2v2"></path><pa=
+th d=3D"M17 20v2"></path><path d=3D"M17 2v2"></path><path d=3D"M2 12h2"></p=
+ath><path d=3D"M2 17h2"></path><path d=3D"M2 7h2"></path><path d=3D"M20 12h=
+2"></path><path d=3D"M20 17h2"></path><path d=3D"M20 7h2"></path><path d=3D=
+"M7 20v2"></path><path d=3D"M7 2v2"></path><rect x=3D"4" y=3D"4" width=3D"1=
+6" height=3D"16" rx=3D"2"></rect><rect x=3D"8" y=3D"8" width=3D"8" height=
+=3D"8" rx=3D"1"></rect></svg></div><div style=3D"font-weight: 600; font-siz=
+e: 0.9rem; margin-bottom: 0.25rem;">Explore CPU &amp; RAM</div><div style=
+=3D"font-size: 0.75rem; color: var(--text-muted); line-height: 1.4;">Intera=
+ctive CS simulations</div></button><button class=3D"card" tabindex=3D"0" st=
+yle=3D"text-align: left; cursor: pointer; display: block; border: 1px solid=
+ var(--border-subtle); opacity: 1; transform: none;"><div style=3D"width: 4=
+0px; height: 40px; border-radius: 10px; background: rgba(6, 182, 212, 0.1);=
+ display: flex; align-items: center; justify-content: center; margin-bottom=
+: 0.75rem;"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"luc=
+ide lucide-database" aria-hidden=3D"true" style=3D"color: var(--accent-cyan=
+);"><ellipse cx=3D"12" cy=3D"5" rx=3D"9" ry=3D"3"></ellipse><path d=3D"M3 5=
+V19A9 3 0 0 0 21 19V5"></path><path d=3D"M3 12A9 3 0 0 0 21 12"></path></sv=
+g></div><div style=3D"font-weight: 600; font-size: 0.9rem; margin-bottom: 0=
+.25rem;">Data Structures</div><div style=3D"font-size: 0.75rem; color: var(=
+--text-muted); line-height: 1.4;">Arrays, stacks, trees</div></button><butt=
+on class=3D"card" tabindex=3D"0" style=3D"text-align: left; cursor: pointer=
+; display: block; border: 1px solid var(--border-subtle); opacity: 1; trans=
+form: none;"><div style=3D"width: 40px; height: 40px; border-radius: 10px; =
+background: rgba(16, 185, 129, 0.1); display: flex; align-items: center; ju=
+stify-content: center; margin-bottom: 0.75rem;"><svg xmlns=3D"http://www.w3=
+.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"non=
+e" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stro=
+ke-linejoin=3D"round" class=3D"lucide lucide-git-graph" aria-hidden=3D"true=
+" style=3D"color: var(--accent-emerald);"><circle cx=3D"5" cy=3D"6" r=3D"3"=
+></circle><path d=3D"M5 9v6"></path><circle cx=3D"5" cy=3D"18" r=3D"3"></ci=
+rcle><path d=3D"M12 3v18"></path><circle cx=3D"19" cy=3D"6" r=3D"3"></circl=
+e><path d=3D"M16 15.7A9 9 0 0 0 19 9"></path></svg></div><div style=3D"font=
+-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;">Algorithm Visuali=
+zer</div><div style=3D"font-size: 0.75rem; color: var(--text-muted); line-h=
+eight: 1.4;">Sort &amp; search animations</div></button><button class=3D"ca=
+rd" tabindex=3D"0" style=3D"text-align: left; cursor: pointer; display: blo=
+ck; border: 1px solid var(--border-subtle); opacity: 1; transform: none;"><=
+div style=3D"width: 40px; height: 40px; border-radius: 10px; background: rg=
+ba(245, 158, 11, 0.1); display: flex; align-items: center; justify-content:=
+ center; margin-bottom: 0.75rem;"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"c=
+urrentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D=
+"round" class=3D"lucide lucide-book-open" aria-hidden=3D"true" style=3D"col=
+or: var(--accent-amber);"><path d=3D"M12 5v16"></path><path d=3D"M20.001 19=
+A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 =
+0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"></path></svg></div>=
+<div style=3D"font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;"=
+>Learning Paths</div><div style=3D"font-size: 0.75rem; color: var(--text-mu=
+ted); line-height: 1.4;">Structured curriculum</div></button><button class=
+=3D"card" tabindex=3D"0" style=3D"text-align: left; cursor: pointer; displa=
+y: block; border: 1px solid var(--border-subtle); opacity: 1; transform: no=
+ne;"><div style=3D"width: 40px; height: 40px; border-radius: 10px; backgrou=
+nd: rgba(244, 63, 94, 0.1); display: flex; align-items: center; justify-con=
+tent: center; margin-bottom: 0.75rem;"><svg xmlns=3D"http://www.w3.org/2000=
+/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejo=
+in=3D"round" class=3D"lucide lucide-trophy" aria-hidden=3D"true" style=3D"c=
+olor: var(--accent-rose);"><path d=3D"M10 14.66V17a1 1 0 0 1-1 1 2 2 0 0 0-=
+2 2v2"></path><path d=3D"M14 14.66V17a1 1 0 0 0 1 1 2 2 0 0 1 2 2v2"></path=
+><path d=3D"M17.916 10H19.5A2.5 2.5 0 0 0 22 7.5V5a1 1 0 0 0-1-1h-3"></path=
+><path d=3D"M4 22h16"></path><path d=3D"M6 9a6 6 0 0 0 12 0V3a1 1 0 0 0-1-1=
+H7a1 1 0 0 0-1 1z"></path><path d=3D"M6.084 10H4.5A2.5 2.5 0 0 1 2 7.5V5a1 =
+1 0 0 1 1-1h3"></path></svg></div><div style=3D"font-weight: 600; font-size=
+: 0.9rem; margin-bottom: 0.25rem;">Daily Challenge</div><div style=3D"font-=
+size: 0.75rem; color: var(--text-muted); line-height: 1.4;">Test your knowl=
+edge</div></button></div></div><div><div class=3D"section-header"><div clas=
+s=3D"section-divider"></div><h2>Your Progress</h2></div><div class=3D"card"=
+ style=3D"text-align: center; padding: 2rem;"><div style=3D"font-size: 3rem=
+; margin-bottom: 0.75rem;">=F0=9F=8E=AF</div><div style=3D"font-weight: 600=
+; margin-bottom: 0.5rem;">No progress yet</div><div style=3D"font-size: 0.8=
+5rem; color: var(--text-muted); margin-bottom: 1rem;">Complete lessons and =
+challenges to track your growth</div><button class=3D"btn btn-primary btn-s=
+m">Start Learning</button></div></div></div><div style=3D"margin-top: 1.75r=
+em;"><div class=3D"section-header"><div class=3D"section-divider"></div><h2=
+>Featured Lessons</h2></div><div style=3D"display: grid; grid-template-colu=
+mns: repeat(auto-fill, minmax(220px, 1fr)); gap: 0.75rem;"><button class=3D=
+"card" tabindex=3D"0" style=3D"text-align: left; cursor: pointer; display: =
+block; position: relative; opacity: 1; transform: none;"><div style=3D"font=
+-size: 1.75rem; margin-bottom: 0.6rem;">=F0=9F=93=A6</div><div style=3D"fon=
+t-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;">Variables &amp; =
+Memory</div><div style=3D"font-size: 0.78rem; color: var(--text-muted); mar=
+gin-bottom: 0.6rem;">How computers store data</div><span class=3D"badge bad=
+ge-emerald" style=3D"font-size: 0.65rem;">Beginner</span></button><button c=
+lass=3D"card" tabindex=3D"0" style=3D"text-align: left; cursor: pointer; di=
+splay: block; position: relative; opacity: 1; transform: none;"><div style=
+=3D"font-size: 1.75rem; margin-bottom: 0.6rem;">=F0=9F=94=84</div><div styl=
+e=3D"font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;">Loops in=
+ Action</div><div style=3D"font-size: 0.78rem; color: var(--text-muted); ma=
+rgin-bottom: 0.6rem;">See iteration step by step</div><span class=3D"badge =
+badge-emerald" style=3D"font-size: 0.65rem;">Beginner</span></button><butto=
+n class=3D"card" tabindex=3D"0" style=3D"text-align: left; cursor: pointer;=
+ display: block; position: relative; opacity: 1; transform: none;"><div sty=
+le=3D"font-size: 1.75rem; margin-bottom: 0.6rem;">=E2=9A=99=EF=B8=8F</div><=
+div style=3D"font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25rem;">=
+How CPUs Work</div><div style=3D"font-size: 0.78rem; color: var(--text-mute=
+d); margin-bottom: 0.6rem;">Fetch, decode, execute cycle</div><span class=
+=3D"badge badge-blue" style=3D"font-size: 0.65rem;">Fundamentals</span></bu=
+tton><button class=3D"card" tabindex=3D"0" style=3D"text-align: left; curso=
+r: pointer; display: block; position: relative; opacity: 1; transform: none=
+;"><div style=3D"font-size: 1.75rem; margin-bottom: 0.6rem;">=F0=9F=94=80</=
+div><div style=3D"font-weight: 600; font-size: 0.9rem; margin-bottom: 0.25r=
+em;">Bubble Sort</div><div style=3D"font-size: 0.78rem; color: var(--text-m=
+uted); margin-bottom: 0.6rem;">Watch sorting in slow motion</div><span clas=
+s=3D"badge badge-violet" style=3D"font-size: 0.65rem;">Algorithms</span></b=
+utton></div></div><div style=3D"margin-top: 1.75rem; opacity: 1;"><div styl=
+e=3D"background: linear-gradient(135deg, rgba(244, 63, 94, 0.08), rgba(139,=
+ 92, 246, 0.08)); border: 1px solid rgba(244, 63, 94, 0.15); border-radius:=
+ var(--radius-xl); padding: 1.25rem 1.5rem; display: flex; align-items: cen=
+ter; justify-content: space-between; flex-wrap: wrap; gap: 1rem;"><div styl=
+e=3D"display: flex; align-items: center; gap: 1rem;"><span style=3D"font-si=
+ze: 2rem;">=F0=9F=8F=86</span><div><div style=3D"font-weight: 700; margin-b=
+ottom: 0.25rem;">Daily Challenge</div><div style=3D"font-size: 0.85rem; col=
+or: var(--text-muted);">Test your knowledge and earn XP every day</div></di=
+v></div><button class=3D"btn btn-primary">Take Challenge <svg xmlns=3D"http=
+://www.w3.org/2000/svg" width=3D"14" height=3D"14" viewBox=3D"0 0 24 24" fi=
+ll=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"ro=
+und" stroke-linejoin=3D"round" class=3D"lucide lucide-arrow-right" aria-hid=
+den=3D"true" style=3D"margin-left: 0.3rem;"><path d=3D"M5 12h14"></path><pa=
+th d=3D"m12 5 7 7-7 7"></path></svg></button></div></div></div></div></main=
+></div></div></div>
+ =20
+
+
+
+<iframe id=3D"nl-badge-frame" title=3D"Powered by Netlify" src=3D"cid:frame=
+-F3FAC258CA960CE3F298BB602B797A91@mhtml.blink" style=3D"position: fixed; bo=
+ttom: 0px; right: 0px; border: 0px; margin: 0px; padding: 0px; background: =
+transparent; color-scheme: dark; z-index: 2147483645; width: 197px; height:=
+ 64px; clip-path: path(&quot;M 3 3 H 184 V 51 H 3 Z&quot;);" data-nl-ready=
+=3D"1"></iframe></body></html>
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://dainty-gecko-d4bc88.netlify.app/assets/index-D6yIXiQJ.css
+
+@charset "utf-8";
+
+@layer properties {
+  @supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((=
+-moz-orient:inline) and (not (color:rgb(from red r g b)))) {
+  *, ::before, ::after, ::backdrop { --tw-rotate-x: initial; --tw-rotate-y:=
+ initial; --tw-rotate-z: initial; --tw-skew-x: initial; --tw-skew-y: initia=
+l; --tw-border-style: solid; --tw-blur: initial; --tw-brightness: initial; =
+--tw-contrast: initial; --tw-grayscale: initial; --tw-hue-rotate: initial; =
+--tw-invert: initial; --tw-opacity: initial; --tw-saturate: initial; --tw-s=
+epia: initial; --tw-drop-shadow: initial; --tw-drop-shadow-color: initial; =
+--tw-drop-shadow-alpha: 100%; --tw-drop-shadow-size: initial; }
+}
+}
+
+@layer theme {
+  :root, :host { --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI"=
+, Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Color Em=
+oji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --font-mono:=
+ ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", =
+"Courier New", monospace; --color-black: #000; --radius-sm: .25rem; --radiu=
+s-md: .375rem; --radius-lg: .5rem; --radius-xl: .75rem; --shadow-sm: 0 1px =
+3px 0 #0000001a, 0 1px 2px -1px #0000001a; --shadow-md: 0 4px 6px -1px #000=
+0001a, 0 2px 4px -2px #0000001a; --shadow-lg: 0 10px 15px -3px #0000001a, 0=
+ 4px 6px -4px #0000001a; --default-transition-duration: .15s; --default-tra=
+nsition-timing-function: cubic-bezier(.4, 0, .2, 1); --default-font-family:=
+ var(--font-sans); --default-mono-font-family: var(--font-mono); }
+}
+
+@layer base {
+  *, ::after, ::before, ::backdrop { box-sizing: border-box; border: 0px so=
+lid; margin: 0px; padding: 0px; }
+  ::file-selector-button { box-sizing: border-box; border: 0px solid; margi=
+n: 0px; padding: 0px; }
+  html, :host { text-size-adjust: 100%; tab-size: 4; line-height: 1.5; font=
+-family: var(--default-font-family,-apple-system, BlinkMacSystemFont, "Sego=
+e UI", Roboto, "Helvetica Neue", "Noto Sans", Arial, sans-serif, "Apple Col=
+or Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"); font-f=
+eature-settings: var(--default-font-feature-settings,normal); font-variatio=
+n-settings: var(--default-font-variation-settings,normal); -webkit-tap-high=
+light-color: transparent; }
+  hr { height: 0px; color: inherit; border-top-width: 1px; }
+  abbr:where([title]) { text-decoration: underline dotted; }
+  h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+  a { color: inherit; text-decoration: inherit; }
+  b, strong { font-weight: bolder; }
+  code, kbd, samp, pre { font-family: var(--default-mono-font-family,ui-mon=
+ospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courie=
+r New", monospace); font-feature-settings: var(--default-mono-font-feature-=
+settings,normal); font-variation-settings: var(--default-mono-font-variatio=
+n-settings,normal); font-size: 1em; }
+  small { font-size: 80%; }
+  sub, sup { vertical-align: baseline; font-size: 75%; line-height: 0; posi=
+tion: relative; }
+  sub { bottom: -0.25em; }
+  sup { top: -0.5em; }
+  table { text-indent: 0px; border-color: inherit; border-collapse: collaps=
+e; }
+  progress { vertical-align: baseline; }
+  summary { display: list-item; }
+  ol, ul, menu { list-style: none; }
+  img, svg, video, canvas, audio, iframe, embed, object { vertical-align: m=
+iddle; display: block; }
+  img, video { max-width: 100%; height: auto; }
+  button, input, select, optgroup, textarea { font: inherit; letter-spacing=
+: inherit; color: inherit; opacity: 1; background-color: rgba(0, 0, 0, 0); =
+border-radius: 0px; }
+  ::file-selector-button { font: inherit; letter-spacing: inherit; color: i=
+nherit; opacity: 1; background-color: rgba(0, 0, 0, 0); border-radius: 0px;=
+ }
+  :where(select:is([multiple], [size])) optgroup { font-weight: bolder; }
+  :where(select:is([multiple], [size])) optgroup option { padding-inline-st=
+art: 20px; }
+  ::file-selector-button { margin-inline-end: 4px; }
+  ::placeholder { opacity: 1; }
+  @supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intr=
+insic-size:1px) {
+  ::placeholder { color: currentcolor; }
+  @supports (color:color-mix(in lab, red, red)) {
+  ::placeholder { color: color-mix(currentcolor, transparent); }
+}
+}
+  textarea { resize: vertical; }
+  ::-webkit-search-decoration { appearance: none; }
+  ::-webkit-date-and-time-value { min-height: 1lh; text-align: inherit; }
+  ::-webkit-datetime-edit { display: inline-flex; }
+  ::-webkit-datetime-edit-fields-wrapper { padding: 0px; }
+  ::-webkit-datetime-edit { padding-block: 0px; }
+  ::-webkit-datetime-edit-year-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-month-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-day-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-hour-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-minute-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-second-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-millisecond-field { padding-block: 0px; }
+  ::-webkit-datetime-edit-meridiem-field { padding-block: 0px; }
+  ::-webkit-calendar-picker-indicator { line-height: 1; }
+  button, input:where([type=3D"button"], [type=3D"reset"], [type=3D"submit"=
+]) { appearance: button; }
+  ::file-selector-button { appearance: button; }
+  ::-webkit-inner-spin-button { height: auto; }
+  ::-webkit-outer-spin-button { height: auto; }
+  [hidden]:where(:not([hidden=3D"until-found"])) { display: none !important=
+; }
+  :root { --bg-primary: #0a0f1e; --bg-secondary: #0f172a; --bg-card: #141d2=
+e; --bg-elevated: #1a2540; --bg-hover: #1e2d4a; --bg-active: #243355; --tex=
+t-primary: #e2e8f0; --text-secondary: #94a3b8; --text-muted: #64748b; --tex=
+t-inverse: #0a0f1e; --accent-blue: #3b82f6; --accent-blue-light: #60a5fa; -=
+-accent-violet: #8b5cf6; --accent-violet-light: #a78bfa; --accent-cyan: #06=
+b6d4; --accent-emerald: #10b981; --accent-amber: #f59e0b; --accent-rose: #f=
+43f5e; --border-subtle: #ffffff0f; --border-default: #ffffff1a; --border-ac=
+cent: #3b82f666; --shadow-sm: 0 1px 3px #0006; --shadow-md: 0 4px 16px #000=
+00080; --shadow-lg: 0 8px 32px #0009; --shadow-glow: 0 0 24px #3b82f633; --=
+radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px; --radius-xl: 24px; --=
+font-sans: "Inter", system-ui, sans-serif; --font-mono: "JetBrains Mono", "=
+Fira Code", monospace; --sidebar-width: 260px; --topbar-height: 60px; }
+  .light { --bg-primary: #f8fafc; --bg-secondary: #f1f5f9; --bg-card: #fff;=
+ --bg-elevated: #f8fafc; --bg-hover: #e2e8f0; --bg-active: #dbeafe; --text-=
+primary: #0f172a; --text-secondary: #475569; --text-muted: #94a3b8; --text-=
+inverse: #fff; --border-subtle: #0000000d; --border-default: #0000001a; --b=
+order-accent: #3b82f666; --shadow-sm: 0 1px 3px #00000014; --shadow-md: 0 4=
+px 16px #0000001a; --shadow-lg: 0 8px 32px #00000026; --shadow-glow: 0 0 24=
+px #3b82f626; }
+  * { box-sizing: border-box; margin: 0px; padding: 0px; }
+  html { font-family: var(--font-sans); -webkit-font-smoothing: antialiased=
+; scroll-behavior: smooth; font-size: 16px; }
+  body { background-color: var(--bg-primary); color: var(--text-primary); m=
+in-height: 100vh; transition: background-color 0.3s, color 0.3s; overflow-x=
+: hidden; }
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: 0px 0px; }
+  ::-webkit-scrollbar-thumb { background: var(--border-default); border-rad=
+ius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+  :focus-visible { outline: 2px solid var(--accent-blue); outline-offset: 2=
+px; border-radius: var(--radius-sm); }
+  code, pre { font-family: var(--font-mono); }
+  @media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after { transition-duration: 0.01ms !important; animation-=
+duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}
+}
+
+@layer components {
+  .app-shell { height: 100vh; display: flex; overflow: hidden; }
+  .sidebar { width: var(--sidebar-width); background: var(--bg-secondary); =
+border-right: 1px solid var(--border-subtle); flex-direction: column; flex-=
+shrink: 0; transition: transform 0.3s, width 0.3s; display: flex; overflow:=
+ hidden; }
+  .sidebar.collapsed { width: 0px; transform: translateX(calc(-1 * var(--si=
+debar-width))); }
+  .main-content { flex-direction: column; flex: 1 1 0%; min-width: 0px; dis=
+play: flex; overflow: hidden; }
+  .topbar { height: var(--topbar-height); background: var(--bg-secondary); =
+border-bottom: 1px solid var(--border-subtle); z-index: 10; flex-shrink: 0;=
+ align-items: center; gap: 0.75rem; padding: 0px 1.25rem; display: flex; }
+  .page-content { background: var(--bg-primary); flex: 1 1 0%; overflow: hi=
+dden auto; }
+  .card { background: var(--bg-card); border: 1px solid var(--border-subtle=
+); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); padding: =
+1.25rem; }
+  .card-elevated { background: var(--bg-elevated); border: 1px solid var(--=
+border-default); border-radius: var(--radius-lg); box-shadow: var(--shadow-=
+md); }
+  .card-glow { box-shadow: var(--shadow-glow); border-color: var(--border-a=
+ccent); }
+  .btn { border-radius: var(--radius-md); font-size: 0.875rem; font-weight:=
+ 500; font-family: var(--font-sans); cursor: pointer; white-space: nowrap; =
+border-width: medium; border-style: none; border-color: currentcolor; borde=
+r-image: none; justify-content: center; align-items: center; gap: 0.5rem; p=
+adding: 0.5rem 1rem; text-decoration: none; transition: 0.15s; display: inl=
+ine-flex; }
+  .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .btn-primary { background: linear-gradient(135deg, var(--accent-blue), va=
+r(--accent-violet)); color: rgb(255, 255, 255); box-shadow: rgba(59, 130, 2=
+46, 0.3) 0px 2px 8px; }
+  .btn-primary:hover:not(:disabled) { transform: translateY(-1px); box-shad=
+ow: rgba(59, 130, 246, 0.4) 0px 4px 16px; }
+  .btn-secondary { background: var(--bg-elevated); color: var(--text-primar=
+y); border: 1px solid var(--border-default); }
+  .btn-secondary:hover:not(:disabled) { background: var(--bg-hover); border=
+-color: var(--accent-blue); color: var(--accent-blue-light); }
+  .btn-ghost { color: var(--text-secondary); background: 0px 0px; border: 1=
+px solid rgba(0, 0, 0, 0); }
+  .btn-ghost:hover:not(:disabled) { background: var(--bg-hover); color: var=
+(--text-primary); }
+  .btn-danger { color: var(--accent-rose); background: rgba(244, 63, 94, 0.=
+1); border: 1px solid rgba(244, 63, 94, 0.2); }
+  .btn-danger:hover:not(:disabled) { background: rgba(244, 63, 94, 0.2); }
+  .btn-success { background: linear-gradient(135deg, var(--accent-emerald),=
+ #059669); color: rgb(255, 255, 255); box-shadow: rgba(16, 185, 129, 0.3) 0=
+px 2px 8px; }
+  .btn-success:hover:not(:disabled) { transform: translateY(-1px); box-shad=
+ow: rgba(16, 185, 129, 0.4) 0px 4px 16px; }
+  .btn-icon { border-radius: var(--radius-md); padding: 0.5rem; }
+  .btn-sm { padding: 0.35rem 0.75rem; font-size: 0.8rem; }
+  .btn-lg { padding: 0.75rem 1.5rem; font-size: 1rem; }
+  .badge { border-radius: 999px; align-items: center; gap: 0.25rem; padding=
+: 0.2rem 0.6rem; font-size: 0.75rem; font-weight: 600; display: inline-flex=
+; }
+  .badge-blue { color: var(--accent-blue-light); background: rgba(59, 130, =
+246, 0.15); }
+  .badge-violet { color: var(--accent-violet-light); background: rgba(139, =
+92, 246, 0.15); }
+  .badge-emerald { color: var(--accent-emerald); background: rgba(16, 185, =
+129, 0.15); }
+  .badge-amber { color: var(--accent-amber); background: rgba(245, 158, 11,=
+ 0.15); }
+  .badge-rose { color: var(--accent-rose); background: rgba(244, 63, 94, 0.=
+15); }
+  .badge-cyan { color: var(--accent-cyan); background: rgba(6, 182, 212, 0.=
+15); }
+  .progress-bar { background: var(--border-default); border-radius: 999px; =
+height: 6px; overflow: hidden; }
+  .progress-fill { background: linear-gradient(90deg, var(--accent-blue), v=
+ar(--accent-violet)); border-radius: 999px; height: 100%; transition: width=
+ 0.5s; }
+  .nav-item { border-radius: var(--radius-md); cursor: pointer; color: var(=
+--text-secondary); align-items: center; gap: 0.75rem; margin: 0.1rem 0.5rem=
+; padding: 0.6rem 1rem; font-size: 0.875rem; font-weight: 500; transition: =
+0.15s; display: flex; }
+  .nav-item:hover { background: var(--bg-hover); color: var(--text-primary)=
+; }
+  .nav-item.active { color: var(--accent-blue-light); background: linear-gr=
+adient(135deg, rgba(59, 130, 246, 0.15), rgba(139, 92, 246, 0.1)); border: =
+1px solid rgba(59, 130, 246, 0.2); }
+  .nav-item .nav-icon { flex-shrink: 0; width: 18px; height: 18px; }
+  .code-badge { font-family: var(--font-mono); color: var(--accent-blue-lig=
+ht); background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 2=
+46, 0.2); border-radius: 4px; padding: 0.15rem 0.5rem; font-size: 0.8rem; }
+  .variable-card { background: var(--bg-elevated); border: 1px solid var(--=
+border-default); border-radius: var(--radius-md); padding: 0.75rem 1rem; tr=
+ansition: 0.3s; position: relative; overflow: hidden; }
+  .variable-card.changed { border-color: var(--accent-blue); box-shadow: rg=
+ba(59, 130, 246, 0.25) 0px 0px 12px; }
+  .variable-card.changed::before { content: ""; pointer-events: none; backg=
+round: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(139, 92, 246,=
+ 0.08)); position: absolute; inset: 0px; }
+  .timeline-item { border-radius: var(--radius-md); cursor: pointer; align-=
+items: flex-start; gap: 0.75rem; padding: 0.5rem 0.75rem; font-size: 0.8rem=
+; transition: 0.15s; display: flex; }
+  .timeline-item:hover { background: var(--bg-hover); }
+  .timeline-item.active { border-left: 2px solid var(--accent-blue); backgr=
+ound: rgba(59, 130, 246, 0.1); }
+  .sim-register { background: var(--bg-elevated); border: 1px solid var(--b=
+order-default); border-radius: var(--radius-sm); font-family: var(--font-mo=
+no); text-align: center; min-width: 80px; padding: 0.5rem 0.75rem; font-siz=
+e: 0.8rem; transition: 0.3s; }
+  .sim-register.active { border-color: var(--accent-amber); color: var(--ac=
+cent-amber); background: rgba(245, 158, 11, 0.1); box-shadow: rgba(245, 158=
+, 11, 0.3) 0px 0px 12px; }
+  .sim-register.highlighted { border-color: var(--accent-blue); color: var(=
+--accent-blue-light); background: rgba(59, 130, 246, 0.1); box-shadow: rgba=
+(59, 130, 246, 0.3) 0px 0px 12px; }
+  .memory-cell { border: 1px solid var(--border-subtle); font-family: var(-=
+-font-mono); text-align: center; cursor: pointer; aspect-ratio: 1 / 1; bord=
+er-radius: 4px; flex-direction: column; justify-content: center; align-item=
+s: center; gap: 2px; padding: 0.4rem 0.3rem; font-size: 0.7rem; transition:=
+ 0.3s; display: flex; }
+  .memory-cell:hover { border-color: var(--accent-blue); background: rgba(5=
+9, 130, 246, 0.08); }
+  .memory-cell.accessed { border-color: var(--accent-emerald); background: =
+rgba(16, 185, 129, 0.15); box-shadow: rgba(16, 185, 129, 0.3) 0px 0px 8px; =
+}
+  .memory-cell.written { border-color: var(--accent-amber); background: rgb=
+a(245, 158, 11, 0.15); box-shadow: rgba(245, 158, 11, 0.3) 0px 0px 8px; }
+  .array-cell { border: 2px solid var(--border-default); border-radius: var=
+(--radius-sm); font-family: var(--font-mono); text-align: center; backgroun=
+d: var(--bg-elevated); min-width: 48px; padding: 0.75rem; font-size: 0.9rem=
+; font-weight: 600; transition: 0.3s; }
+  .array-cell.comparing { border-color: var(--accent-amber); color: var(--a=
+ccent-amber); background: rgba(245, 158, 11, 0.15); box-shadow: rgba(245, 1=
+58, 11, 0.3) 0px 0px 12px; }
+  .array-cell.swapping { border-color: var(--accent-rose); color: var(--acc=
+ent-rose); background: rgba(244, 63, 94, 0.15); box-shadow: rgba(244, 63, 9=
+4, 0.3) 0px 0px 12px; }
+  .array-cell.sorted { border-color: var(--accent-emerald); color: var(--ac=
+cent-emerald); background: rgba(16, 185, 129, 0.15); }
+  .array-cell.found { border-color: var(--accent-blue); color: var(--accent=
+-blue-light); background: rgba(59, 130, 246, 0.2); transform: scale(1.1); b=
+ox-shadow: rgba(59, 130, 246, 0.4) 0px 0px 16px; }
+  .array-cell.in-range { border-color: var(--accent-violet); color: var(--a=
+ccent-violet-light); background: rgba(139, 92, 246, 0.15); }
+  .section-header { align-items: center; gap: 0.75rem; margin-bottom: 1.25r=
+em; display: flex; }
+  .section-header h2 { color: var(--text-primary); font-size: 1.25rem; font=
+-weight: 700; }
+  .section-divider { background: linear-gradient(180deg, var(--accent-blue)=
+, var(--accent-violet)); border-radius: 2px; flex-shrink: 0; width: 3px; he=
+ight: 24px; }
+  .input { background: var(--bg-elevated); border: 1px solid var(--border-d=
+efault); border-radius: var(--radius-md); color: var(--text-primary); font-=
+family: var(--font-sans); width: 100%; padding: 0.6rem 0.9rem; font-size: 0=
+.875rem; transition: border-color 0.15s; }
+  .input:focus { border-color: var(--accent-blue); outline: none; box-shado=
+w: rgba(59, 130, 246, 0.15) 0px 0px 0px 3px; }
+  .input::placeholder { color: var(--text-muted); }
+  .select { background-attachment: ; background-origin: ; background-clip: =
+; background-color: ; border: 1px solid var(--border-default); border-radiu=
+s: var(--radius-md); color: var(--text-primary); font-family: var(--font-sa=
+ns); cursor: pointer; appearance: none; padding: 0.6rem 2.5rem 0.6rem 0.9re=
+m; background-image: url("data:image/svg+xml,%3csvg xmlns=3D'http://www.w3.=
+org/2000/svg' fill=3D'none' viewBox=3D'0 0 20 20'%3e%3cpath stroke=3D'%2364=
+748b' stroke-linecap=3D'round' stroke-linejoin=3D'round' stroke-width=3D'1.=
+5' d=3D'M6 8l4 4 4-4'/%3e%3c/svg%3e"); background-position: right 0.5rem ce=
+nter; background-repeat: no-repeat; background-size: 1.25rem auto; font-siz=
+e: 0.875rem; }
+  .select:focus { border-color: var(--accent-blue); outline: none; }
+  .tooltip { position: relative; }
+  .tooltip::after { content: attr(data-tip); background: var(--bg-elevated)=
+; color: var(--text-primary); border-radius: var(--radius-sm); border: 1px =
+solid var(--border-default); white-space: nowrap; pointer-events: none; opa=
+city: 0; z-index: 100; padding: 0.35rem 0.6rem; font-size: 0.75rem; transit=
+ion: opacity 0.15s; position: absolute; bottom: calc(100% + 6px); left: 50%=
+; transform: translate(-50%); }
+  .tooltip:hover::after { opacity: 1; }
+  .gradient-text { background-image: ; background-position-x: ; background-=
+position-y: ; background-size: ; background-repeat: ; background-attachment=
+: ; background-origin: ; background-color: ; -webkit-text-fill-color: trans=
+parent; background-clip: text; }
+  .spinner { border-top-style: ; border-top-width: ; border-right-color: ; =
+border-right-style: ; border-right-width: ; border-bottom-color: ; border-b=
+ottom-style: ; border-bottom-width: ; border-left-color: ; border-left-styl=
+e: ; border-left-width: ; border-image-source: ; border-image-slice: ; bord=
+er-image-width: ; border-image-outset: ; border-image-repeat: ; border-top-=
+color: var(--accent-blue); border-radius: 50%; width: 20px; height: 20px; a=
+nimation: 0.7s linear 0s infinite normal none running spin; }
+  @keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+  .pulse-dot { background: var(--accent-emerald); border-radius: 50%; width=
+: 8px; height: 8px; animation: 1.5s ease 0s infinite normal none running pu=
+lse-anim; }
+  @keyframes pulse-anim {=20
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+  .flow-arrow { color: var(--text-muted); align-items: center; font-size: 1=
+.25rem; display: flex; }
+  .tag { font-size: 0.72rem; font-weight: 600; font-family: var(--font-mono=
+); text-transform: uppercase; letter-spacing: 0.05em; border-radius: 4px; a=
+lign-items: center; padding: 0.2rem 0.55rem; display: inline-flex; }
+  .tag-loop { color: var(--accent-cyan); background: rgba(6, 182, 212, 0.15=
+); }
+  .tag-condition { color: var(--accent-amber); background: rgba(245, 158, 1=
+1, 0.15); }
+  .tag-function { color: var(--accent-violet-light); background: rgba(139, =
+92, 246, 0.15); }
+  .tag-assign { color: var(--accent-blue-light); background: rgba(59, 130, =
+246, 0.15); }
+  .tag-output { color: var(--accent-emerald); background: rgba(16, 185, 129=
+, 0.15); }
+  .tag-error { color: var(--accent-rose); background: rgba(244, 63, 94, 0.1=
+5); }
+  .tag-start { color: rgb(129, 140, 248); background: rgba(99, 102, 241, 0.=
+15); }
+  .tag-end { color: var(--accent-emerald); background: rgba(16, 185, 129, 0=
+.15); }
+  @media (width <=3D 768px) {
+  :root { --sidebar-width: 100%; }
+  .sidebar { z-index: 50; width: var(--sidebar-width); position: fixed; ins=
+et: 0px; }
+  .sidebar.collapsed { transform: translate(-100%); }
+}
+}
+
+@layer utilities {
+  .visible { visibility: visible; }
+  .absolute { position: absolute; }
+  .fixed { position: fixed; }
+  .relative { position: relative; }
+  .inset-0 { inset: 0px; }
+  .z-40 { z-index: 40; }
+  .block { display: block; }
+  .contents { display: contents; }
+  .flex { display: flex; }
+  .grid { display: grid; }
+  .hidden { display: none; }
+  .inline { display: inline; }
+  .table { display: table; }
+  .transform { transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-=
+rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,); }
+  .resize { resize: both; }
+  .border { border-style: var(--tw-border-style); border-width: 1px; }
+  .bg-black\/60 { background-color: rgba(0, 0, 0, 0.6); }
+  @supports (color:color-mix(in lab, red, red)) {
+  .bg-black\/60 { background-color: color-mix(in oklab, var(--color-black) =
+60%, transparent); }
+}
+  .break-all { word-break: break-all; }
+  .capitalize { text-transform: capitalize; }
+  .uppercase { text-transform: uppercase; }
+  .italic { font-style: italic; }
+  .filter { filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast=
+,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-sa=
+turate,) var(--tw-sepia,) var(--tw-drop-shadow,); }
+  .transition { transition-property: color, background-color, border-color,=
+ outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --=
+tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translat=
+e, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter, display=
+, content-visibility, overlay, pointer-events; transition-timing-function: =
+var(--tw-ease,var(--default-transition-timing-function)); transition-durati=
+on: var(--tw-duration,var(--default-transition-duration)); }
+  @media (width >=3D 48rem) {
+  .md\:hidden { display: none; }
+}
+}
+
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: =
+solid; }
+
+@property --tw-blur { syntax: "*"; inherits: false; }
+
+@property --tw-brightness { syntax: "*"; inherits: false; }
+
+@property --tw-contrast { syntax: "*"; inherits: false; }
+
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+
+@property --tw-invert { syntax: "*"; inherits: false; }
+
+@property --tw-opacity { syntax: "*"; inherits: false; }
+
+@property --tw-saturate { syntax: "*"; inherits: false; }
+
+@property --tw-sepia { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false;=
+ initial-value: 100%; }
+
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+
+@keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 300; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 400; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 500; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 600; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 700; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2") format("woff2"); unicode-range: U+460-=
+52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2") format("woff2"); unicode-range: U+301,=
+ U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2") format("woff2"); unicode-range: U+1F00=
+-1FFF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2") format("woff2"); unicode-range: U+370-=
+377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2") format("woff2"); unicode-range: U+102-=
+103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+30=
+3-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa25L7SUc.woff2") format("woff2"); unicode-range: U+100-=
+2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D0=
+0-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113,=
+ U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Inter; font-style: normal; font-weight: 800; font=
+-display: swap; src: url("https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3i=
+LTeHuS_nVMrMxCp50SjIa1ZL7.woff2") format("woff2"); unicode-range: U+0-FF, U=
++131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+200=
+0-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----
+Content-Type: text/html
+Content-ID: <frame-F3FAC258CA960CE3F298BB602B797A91@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html style=3D"--nl-vw: 1313px; --nl-vh: 639px;"><head><meta=
+ http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link r=
+el=3D"stylesheet" type=3D"text/css" href=3D"cid:css-735340f5-b16f-48b7-984e=
+-0cebdef771c8@mhtml.blink" /><meta name=3D"color-scheme" content=3D"dark"><=
+/head><body>
+      <div class=3D"nl-wrap">
+        <section class=3D"nl-card" id=3D"nl-card" aria-label=3D"Build your =
+own site on Netlify">
+          <button type=3D"button" class=3D"nl-icon-btn nl-tap nl-card-close=
+" id=3D"nl-card-close" aria-label=3D"Close"><svg width=3D"14" height=3D"14"=
+ viewBox=3D"0 0 16 16" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"1.9" stroke-linecap=3D"round" aria-hidden=3D"true"><path d=3D"M4.5 4.5 =
+11.5 11.5M11.5 4.5 4.5 11.5"></path></svg></button>
+          <h2><em>Build your own site with Netlify</em></h2>
+          <p>Describe what you want, and an AI agent designs, builds and de=
+ploys it in minutes.</p>
+          <form class=3D"nl-prompt" action=3D"https://app.netlify.com/start=
+" method=3D"get" target=3D"_blank" rel=3D"noopener">
+            <textarea name=3D"prompt" rows=3D"2" required=3D"" maxlength=3D=
+"300" autocomplete=3D"off" enterkeyhint=3D"go" placeholder=3D"A shop for my=
+ handmade surfboards=E2=80=A6" aria-label=3D"Describe the site you want to =
+build"></textarea>
+            <button type=3D"submit" class=3D"nl-send nl-tap" aria-label=3D"=
+Build this site"><svg width=3D"13" height=3D"13" viewBox=3D"0 0 16 16" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"1.8" stroke-linecap=3D"ro=
+und" stroke-linejoin=3D"round" aria-hidden=3D"true"><path d=3D"M8 12.75v-9.=
+5M3.9 7.35 8 3.25l4.1 4.1"></path></svg></button>
+           =20
+           =20
+           =20
+           =20
+           =20
+           =20
+          </form>
+          <div class=3D"nl-or"><span>or</span></div>
+          <a class=3D"nl-drop" href=3D"https://app.netlify.com/drop?utm_sou=
+rce=3Dnetlify_badge&amp;utm_campaign=3Dloops&amp;utm_medium=3Downed&amp;utm=
+_content=3Ddrop&amp;utm_id=3D97ab133a-c371-4990-8581-d9725412e870" target=
+=3D"_blank" rel=3D"noopener">
+            <span>Drop a site you already have</span><span class=3D"nl-arro=
+w" aria-hidden=3D"true">=E2=86=92</span>
+          </a>
+          <button type=3D"button" class=3D"nl-hide" id=3D"nl-hide">Hide thi=
+s badge</button>
+        </section>
+        <button type=3D"button" class=3D"nl-badge" id=3D"nl-badge" aria-exp=
+anded=3D"false" aria-controls=3D"nl-card" aria-label=3D"Powered by Netlify =
+=E2=80=94 build your own site">
+          <svg width=3D"18" height=3D"18" viewBox=3D"0 0 32 32" fill=3D"non=
+e" aria-hidden=3D"true">
+    <path fill=3D"#fff" d=3D"M17.9922 18.3225H14.005L13.6746 17.9921V14.005=
+L14.005 13.6746H17.9922L18.3226 14.005V17.9921L17.9922 18.3225Z"></path>
+    <g fill=3D"#05BDBA">
+      <path d=3D"M9.6958 24.3311H9.35705L7.6661 22.6401V22.3041L10.2511 19.=
+7164L12.042 19.7191L12.2808 19.9552V21.7461L9.6958 24.3311Z"></path>
+      <path d=3D"M7.6661 9.69576V9.35701L9.35705 7.66606H9.6958L12.2808 10.=
+2511V12.0392L12.042 12.2808H10.2511L7.6661 9.69576Z"></path>
+      <path d=3D"M10.0457 17.4369H0.205466L0 17.2314V14.7658L0.205466 14.56=
+03H10.0457L10.2511 14.7658V17.2314L10.0457 17.4369Z"></path>
+      <path d=3D"M31.7945 17.4369H21.9544L21.7489 17.2314V14.7658L21.9544 1=
+4.5603H31.7945L32 14.7658V17.2314L31.7945 17.4369Z"></path>
+      <path d=3D"M14.5631 10.0456V2.66547L14.7686 2.46001H17.2343L17.4396 2=
+.66547V10.0456L17.2343 10.2511H14.7686L14.5631 10.0456Z"></path>
+      <path d=3D"M14.5631 29.3316V21.9515L14.7686 21.746H17.2343L17.4396 21=
+.9515V29.3316L17.2343 29.5371H14.7686L14.5631 29.3316Z"></path>
+    </g></svg>
+          <span><span class=3D"nl-badge-label">Powered by</span> <span clas=
+s=3D"nl-badge-brand">Netlify</span></span>
+        </button>
+      </div>
+     =20
+    </body></html>
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-735340f5-b16f-48b7-984e-0cebdef771c8@mhtml.blink
+
+@charset "utf-8";
+
+:root { --nl-vw: 1313px; --nl-vh: 639px; }
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; padding: 0px; background: transparent; overflow: =
+hidden; }
+
+body { display: flex; align-items: flex-end; justify-content: flex-end; hei=
+ght: 100vh; padding: 8px 18px 18px 8px; font-family: -apple-system, BlinkMa=
+cSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 1=
+4px; line-height: 1.5; color: rgb(244, 249, 249); -webkit-font-smoothing: a=
+ntialiased; }
+
+.nl-wrap { display: flex; flex-direction: column; align-items: flex-end; ga=
+p: 10px; width: max-content; max-width: calc(var(--nl-vw,100vw) - 26px); }
+
+button { font-family: inherit; cursor: pointer; }
+
+:focus-visible { outline: rgb(50, 230, 226) solid 2px; outline-offset: 2px;=
+ border-radius: 6px; }
+
+.nl-icon-btn { position: relative; flex: 0 0 auto; width: 30px; height: 30p=
+x; display: inline-flex; align-items: center; justify-content: center; bord=
+er-radius: 8px; border: 1px solid transparent; background: transparent; col=
+or: rgb(213, 227, 230); transition: background 0.15s, color 0.15s; }
+
+.nl-icon-btn:hover { background: rgba(255, 255, 255, 0.08); color: rgb(244,=
+ 249, 249); }
+
+.nl-tap::after { content: ""; position: absolute; top: 50%; left: 50%; tran=
+sform: translate(-50%, -50%); width: max(100%, 44px); height: max(100%, 44p=
+x); }
+
+@keyframes nl-rise {=20
+  0% { opacity: 0; transform: translateY(10px) scale(0.97); }
+  100% { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition: none !important; }
+}
+
+.nl-card { position: relative; display: none; width: min(340px,calc(var(--n=
+l-vw,100vw) - 26px)); max-height: calc(var(--nl-vh,100vh) - 84px); overflow=
+-y: auto; background: linear-gradient(rgb(19, 40, 50) 0%, rgb(14, 30, 37) 1=
+00%); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 18px; pad=
+ding: 18px; transform-origin: right bottom; animation: 0.3s cubic-bezier(0.=
+34, 1.4, 0.4, 1) 0s 1 normal both running nl-rise; }
+
+.nl-card.open { display: block; }
+
+.nl-card-close { position: absolute; top: 10px; right: 10px; }
+
+.nl-card h2 { margin: 0px; padding-right: 30px; font-size: 16px; font-weigh=
+t: 750; letter-spacing: -0.015em; line-height: 1.35; }
+
+.nl-card h2 em { font-style: normal; background: linear-gradient(90deg, rgb=
+(50, 230, 226), rgb(77, 124, 254), rgb(154, 107, 255)) text; -webkit-text-f=
+ill-color: transparent; color: transparent; }
+
+.nl-card p { margin: 8px 0px 0px; font-size: 12.5px; color: rgb(213, 227, 2=
+30); }
+
+.nl-prompt { position: relative; margin-top: 14px; background: rgb(16, 34, =
+43); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 14px; padd=
+ing: 10px 12px; transition: border-color 0.15s, box-shadow 0.15s; }
+
+.nl-prompt:focus-within { border-color: rgb(5, 189, 186); box-shadow: rgba(=
+5, 189, 186, 0.18) 0px 0px 0px 3px; }
+
+.nl-prompt textarea { display: block; width: 100%; height: 38px; resize: no=
+ne; border: 0px; outline: none; background: transparent; color: rgb(244, 24=
+9, 249); font-style: inherit; font-variant: inherit; font-weight: inherit; =
+font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; =
+font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: in=
+herit; font-variation-settings: inherit; font-language-override: inherit; f=
+ont-size: 13px; line-height: 19px; padding: 0px 28px 0px 0px; }
+
+.nl-prompt textarea::placeholder { color: rgb(169, 189, 194); }
+
+.nl-send { position: absolute; right: 9px; bottom: 9px; width: 24px; height=
+: 24px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-=
+content: center; border: 0px; border-radius: 50%; background: rgb(5, 189, 1=
+86); color: rgb(2, 25, 27); transition: background 0.15s; }
+
+.nl-send:hover { background: rgb(50, 230, 226); }
+
+@media (pointer: coarse) {
+  .nl-prompt textarea { font-size: 16px; line-height: 21px; height: 42px; }
+}
+
+.nl-or { display: flex; align-items: center; gap: 10px; margin: 12px 0px; f=
+ont-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform:=
+ uppercase; color: rgb(169, 189, 194); }
+
+.nl-or::before, .nl-or::after { content: ""; flex: 1 1 0%; height: 1px; bac=
+kground: rgba(255, 255, 255, 0.09); }
+
+.nl-drop { display: flex; align-items: center; justify-content: space-betwe=
+en; gap: 6px; text-decoration: none; background: rgb(27, 58, 69); border: 1=
+px solid rgba(255, 255, 255, 0.09); border-radius: 10px; padding: 10px 12px=
+; font-size: 13px; font-weight: 600; color: rgb(207, 224, 227); transition:=
+ background 0.15s, color 0.15s, border-color 0.15s; }
+
+.nl-drop:hover { background: rgb(34, 71, 83); color: rgb(244, 249, 249); bo=
+rder-color: rgba(50, 230, 226, 0.3); }
+
+.nl-drop .nl-arrow { transition: transform 0.18s cubic-bezier(0.34, 1.4, 0.=
+4, 1); }
+
+.nl-drop:hover .nl-arrow { transform: translateX(3px); }
+
+.nl-badge { display: flex; align-items: center; gap: 9px; white-space: nowr=
+ap; border: 1px solid rgba(255, 255, 255, 0.09); background: linear-gradien=
+t(rgb(20, 43, 52), rgb(14, 30, 37)); color: rgb(244, 249, 249); border-radi=
+us: 999px; padding: 9px 14px 9px 11px; font-size: 13px; font-weight: 600; l=
+etter-spacing: 0.01em; transition: border-color 0.2s; }
+
+.nl-badge:hover { border-color: rgba(50, 230, 226, 0.26); }
+
+.nl-hide { display: block; width: 100%; margin-top: 10px; border: 0px; back=
+ground: transparent; color: rgb(169, 189, 194); font-size: 11.5px; font-wei=
+ght: 600; padding: 4px; border-radius: 8px; transition: color 0.15s; }
+
+.nl-hide:hover { color: rgb(213, 227, 230); text-decoration: underline; }
+
+.nl-badge-label { color: rgb(213, 227, 230); font-weight: 500; }
+
+.nl-badge-brand { font-weight: 750; }
+------MultipartBoundary--mdYnlvnAD9hmHq0BTRVSqG2HiUt2xSPuqdLotIzu05------
